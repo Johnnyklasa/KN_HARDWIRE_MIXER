@@ -1430,7 +1430,7 @@
 				)
 			)
 		)
-		(property "Value" "ROR"
+		(property "Value" "{ROR}"
 			(at 203.2 46.99 90)
 			(effects
 				(font
